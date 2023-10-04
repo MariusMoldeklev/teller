@@ -18,15 +18,16 @@ body {
 
 .title_body {
     background: white;
-    padding: 30px;
+    padding: 10px 10px 30px 10px ;
     border-radius: 15px;
     text-align: center;
 
 }
 
-.title {
+#title {
     margin-bottom: 20px;
-    font-size: 75px;
+    font-size: 40px;
+    font-family:luminari,fantasy;
 }
 
 .button_container button {

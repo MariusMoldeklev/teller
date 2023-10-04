@@ -39,5 +39,9 @@ function decrement() {
 }
 
 console.log(count)
+ her dar du en alerede laget funksjon og brukerden i en eventlistender, og lager en onclick effect.
+pluss_button.addEvemtListener("click", increment);
+
+minus_button.addEventListener("click", decrement);
 
    */  
