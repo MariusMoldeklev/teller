@@ -13,7 +13,21 @@ pluss_button.addEventListener('click',()=>{
 
     count = count + 1;
     main_title.textContent = count;
+    
 });
+    /*   prøvde noe gikk ikke.
+if (count === 1000;{
+    displayPrompt("You wasted 1000clicks worth of time! Winner! ")
+});
+    
+
+function displayPrompt(message) {
+  // Display some form of box
+  // Start simple
+  prompt(message)
+}
+*/
+
 
 minus_button.addEventListener('click', ()=>{
 

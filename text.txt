@@ -1,0 +1,17 @@
+/*lage funksjoner til knapper
+function increment() {
+    count = count + 1;
+}
+
+console.log(count);
+
+function decrement() {
+    count = count - 1;
+}
+
+console.log(count)
+ her dar du en alerede laget funksjon og brukerden i en eventlistender, og lager en onclick effect.
+pluss_button.addEvemtListener("click", increment);
+
+minus_button.addEventListener("click", decrement);
+*/
